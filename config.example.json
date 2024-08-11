@@ -1,0 +1,39 @@
+{
+  "api_id": 111111,
+  "api_hash": "1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a",
+  "phone_number": "+111111111111",
+  "2fa_password": "",
+  "sleep_time": 200,
+  "mode": "snoo_v2",
+  "profile": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "about": "Hello, I'm John"
+  },
+  "sfw_mode": {
+    "enabled": true,
+    "hour_start": 10,
+    "hour_end": 19,
+    "weekdays": [0, 1, 2, 3, 4]
+  },
+  "channel": {
+    "id": 1081736270,
+    "messages_offset": 1000
+  },
+  "snoo": {
+    "bg_alpha": 70,
+    "body_bottoms": true,
+    "body_tops": true,
+    "main_expressions": 5,
+    "face_eyes": 1,
+    "face_accessories": "rand",
+    "body_left_hand_accessories": "rand",
+    "body_right_hand_accessories": "rand",
+    "face_facial_hair": false,
+    "face_coverings": false,
+    "full_body_outfits": false,
+    "face_makeup": false,
+    "head_hair": "rand",
+    "head_accessories": true
+  }
+}
